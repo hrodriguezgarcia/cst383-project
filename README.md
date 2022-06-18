@@ -7,6 +7,7 @@ Hugo Rodriguez - hrodriguezgarcia@csumb.edu
 Jeff Burk - jburk@csumb.edu
 
 Introduction
+
 The project was undertaken to help entrepreneurs and small businesses in making decisions concerning their goals of funding their projects. The Kickstarter platform includes data about various categories of projects to suit projects whether they be artistic, technological, culinary, or literary. This project is important because it could save those entrepreneurs and businesses from wasting time and money on unfruitful ventures. 
 The research question in this project was whether we could create a model to predict the pledged dollar amount for a given campaign based on the dataset of over 300k completed campaigns. We hypothesized that by using machine learning we could help users decide whether they should start a Kickstarter campaign or if it would be better for them to pursue other more traditional means of funding such as a bank loan or investor funding.
 The purpose of the research was to find out if we could predict the outcomes of the Kickstarter campaigns based on the features given in the dataset. This can help determine if Kickstarter is the correct funding platform for a project, and help gain insight into how to optimize a campaign for success.
